@@ -26,8 +26,6 @@ subject是commit目的的简短描述，不超过50个字符。
 ---
 title: note title
 date: XXXX-XX-XX
-tags: [tag]
-categories: [categoriy]
 ---
 
 # note title

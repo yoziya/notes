@@ -1,9 +1,9 @@
 ---
-title: Typecho
-date: 2023-12-2
-tags: [Blog]
-categories: [Utility]
+title: Typecho 建站
+date: 2023-12-6
 ---
+
+
 
 # Typecho
 
@@ -73,8 +73,6 @@ categories: [Utility]
 
 这时再进入买的域名，就会进入 Typecho 配置界面。
 
-![image-20231202184449397](https://raw.githubusercontent.com/yoziya/images/main/image-20231202184449397.png)
-
 配置信息在星辰云购买的产品信息里能看到。
 
 ![image-20231202221922162](https://raw.githubusercontent.com/yoziya/images/main/notes/image-20231202221922162.png)
@@ -95,11 +93,11 @@ categories: [Utility]
 
 主题目录 `/wwwroot/usr/themes/`。和安装 typecho 差不多，上传压缩包，然后在线解压。就不多说了。
 
-![image-20231202185527952](https://raw.githubusercontent.com/yoziya/images/main/image-20231202185527952.png)
+![image-20231202185527952](https://raw.githubusercontent.com/yoziya/images/main/notes/image-20231203114219639.png)
 
 对于 Handsome 的一些功能，可以在控制台 → 外观 → 设置外观中配置。
 
-![image-20231202185849063](https://raw.githubusercontent.com/yoziya/images/main/image-20231202185849063.png)
+![image-20231202185849063](https://raw.githubusercontent.com/yoziya/images/main/notes/image-20231203114601795.png)
 
 按个人想法配置即可。[《handsome-typecho 主题文档帮助手册教程》](https://geekdaxue.co/books/typecho-theme-handsome-docs)
 

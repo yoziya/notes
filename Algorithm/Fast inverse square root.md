@@ -1,9 +1,9 @@
 ---
-title: Fast inverse square root
+title: 快速平方根算法
 date: 2023-11-23
-tags: [Algorithm]
-categories: [GameDevelop]
 ---
+
+
 
 # Fast inverse square root
 

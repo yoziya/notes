@@ -1,9 +1,9 @@
 ---
 title: Delegate
 date: 2022-8-26
-tags: [CSharp]
-categories: [Unity]
 ---
+
+
 
 # Delegate
 

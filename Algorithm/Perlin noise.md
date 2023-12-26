@@ -1,9 +1,9 @@
 ---
-title: Perlin noise
+title: 柏林噪声
 date: 2023-11-29
-tags: [Algorithm]
-categories: [GameDevelop]
 ---
+
+
 
 # note title
 
