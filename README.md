@@ -1,4 +1,58 @@
-## commit 规则
+# notes
+
+笔记的备份记录
+
+## note
+
+### format
+
+```markdown
+---
+title: Title
+date: XXXX-XX-XX
+---
+
+# Title
+
+brief overview.
+
+## lec 01(第一章节)
+
+
+
+### part 01(第一部分)
+
+
+
+## issues
+
+
+
+## reference
+
+
+
+## appendix
+
+
+
+```
+
+### categories
+
+```
+[algorithm,os,net,cpp,csharp,python,unity,ue,utility,otaku]
+```
+
+### demo
+
+```
+[enakit,]
+```
+
+
+
+## commit format
 
 > `<type>: <subject>`
 
@@ -17,42 +71,3 @@
 subject是commit目的的简短描述，不超过50个字符。
 
 使用中文，表述简练，结尾不加标点。
-
-## notes 规则
-
-### style
-
-```markdown
----
-title: note title
-date: XXXX-XX-XX
----
-
-# note title
-
-brief overview of the note.
-
-## lec 01(第一章节)
-
-
-
-### part 01(第一部分)
-
----
-
-## issues
-
-
-
-## reference
-
-- 
-
-## appendix
-
-
-
----
-```
-
-### categories
